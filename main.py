@@ -1,3 +1,6 @@
+# this code was developed with the tutorial : https://www.youtube.com/watch?time_continue=3&v=wc-FxNENg9U&feature=emb_title 
+# from source repo https://github.com/philtabor/Deep-Q-Learning-Paper-To-Code 
+
 import argparse, os
 import gym
 import numpy as np
